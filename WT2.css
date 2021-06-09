@@ -1,0 +1,11 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    /* box-sizing: border-box; */
+    font-family: 'Poppins', sans-serif;    
+}
+
+
+p{
+    size: 80px;
+}

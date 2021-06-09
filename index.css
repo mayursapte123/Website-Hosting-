@@ -1,0 +1,16 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+.logo{
+padding: 10px;
+
+}
+
+.para{
+    font-style: oblique;
+}
